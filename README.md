@@ -1,6 +1,7 @@
 # TIF: Learning Temporal Invariance in Android Malware Detectors
 
 This repository contains the implementation for TIF (Two-stage Information Filtering), a method for learning temporally invariant features in Android malware detection. The codebase includes TIF and baseline methods for comparison.
+Paper has been accepted by IEEE TSE (https://ieeexplore.ieee.org/abstract/document/11541244/)
 
 ## Overview
 
